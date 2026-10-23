@@ -1,0 +1,3 @@
+uagents
+uagents-core
+openai
